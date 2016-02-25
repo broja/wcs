@@ -79,6 +79,14 @@ h6 {
     .intro-divider {
         width: 100%;
     }
+
+    .img-responsive {
+        max-width: 80%;
+    }
+
+    br {
+        display: none;
+    }
 }
 
 .network-name {
